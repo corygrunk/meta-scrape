@@ -1,0 +1,32 @@
+{
+  "name": "meta-scrape",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browserless": "^9.6.11",
+    "express": "^4.18.2",
+    "html-get": "^2.9.23",
+    "metascraper": "^5.31.1",
+    "metascraper-amazon": "^5.31.1",
+    "metascraper-author": "^5.31.1",
+    "metascraper-clearbit": "^5.31.1",
+    "metascraper-date": "^5.31.1",
+    "metascraper-description": "^5.31.1",
+    "metascraper-image": "^5.31.1",
+    "metascraper-instagram": "^5.31.1",
+    "metascraper-logo": "^5.31.1",
+    "metascraper-publisher": "^5.31.1",
+    "metascraper-soundcloud": "^5.31.1",
+    "metascraper-spotify": "^5.31.1",
+    "metascraper-title": "^5.31.1",
+    "metascraper-url": "^5.31.1",
+    "metascraper-youtube": "^5.31.1"
+  }
+}
